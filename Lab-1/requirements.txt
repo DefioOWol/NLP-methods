@@ -1,0 +1,5 @@
+nltk==3.10.3
+pymorphy3==2.0.6
+pandas==3.0.5
+scikit-learn==1.9.0
+joblib==1.6.0
