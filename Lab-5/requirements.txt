@@ -1,0 +1,8 @@
+nltk==3.10.3
+pymorphy3==2.0.6
+pandas==3.0.5
+scikit-learn==1.9.0
+joblib==1.6.0
+gensim==4.4.0
+spacy==3.8.18
+ru_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.8.0/ru_core_news_sm-3.8.0-py3-none-any.whl
